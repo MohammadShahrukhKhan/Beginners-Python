@@ -38,7 +38,7 @@ print(b1.ej)
 
 class Person:
     pass # it is a placeholder for future codes
-''' empty/incomplete code in loop, function & 
+''' empty/incomplete code in loop, class, function & 
     if statements throws Error but when pass  
     is written, we do not get any kind of error '''
 
