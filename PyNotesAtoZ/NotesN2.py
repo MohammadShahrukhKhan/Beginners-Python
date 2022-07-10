@@ -12,3 +12,8 @@ while counter <= 100:
 	counter += 1
 
 print(my_list)
+
+while True:
+    x = int(input('Enter the value: '))
+    color = 'red' if x > 0 and x <= 5 else 'orange' if x > 5 and x <=10 else 'yellow' if x > 10 and x <=15 else 'invisible'
+    print(color)
